@@ -5,13 +5,13 @@
   "title": "La importancia de la inmunizaci\u00f3n", 
   "primary_category": "4593a927f4d84598a41d020cb6de0651", 
   "created_at": "2015-10-19T22:24:56+00:00", 
-  "featured_in_category": true, 
-  "modified_at": "2016-02-17T09:15:39.209983+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-10-25T10:12:48.342928+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "142f751e1fb64a01abdf193558a1881c", 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-importancia-de-la-inmunizacion", 
   "uuid": "5eac356ecb644f4287cf60af3c4e7e3b"
