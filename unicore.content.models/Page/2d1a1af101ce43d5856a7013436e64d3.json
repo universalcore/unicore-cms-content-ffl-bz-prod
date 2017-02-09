@@ -1,0 +1,29 @@
+{
+  "subtitle": "IMUNISASI 10: DEMAM SESUDAH IMUNISASI ", 
+  "description": "IMUNISASI 10: DEMAM SESUDAH IMUNISASI ", 
+  "language": "ind_ID", 
+  "title": "IMUNISASI 10: DEMAM SESUDAH IMUNISASI", 
+  "primary_category": "5f9f5eeaaa5a46169e984c533e31d415", 
+  "created_at": "2015-01-06T08:33:49+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-01-06T08:33:49+00:00", 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**IMUNISASI 10: DEMAM SESUDAH IMUNISASI**\r\n\r\nSetelah anak mendapatkan suntikan, biasanya anak menangis atau kemudian mengalami demam ringan. Hal ini merupakan hal yang biasa dan wajar yang menunjukkan bahwa vaksin sedang bekerja. Demam biasanya akan menghilang setelah 2-3 hari. Jika anak menderita demam (lebih dari 38 derajat Celcius) atau kalau demam masih terus berlanjut setelah 2-3 hari, segera bawa kepada petugas kesehatan. \r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 10, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "IMUNISASI10-demam-sesudah-imunisasi", 
+  "uuid": "2d1a1af101ce43d5856a7013436e64d3"
+}
